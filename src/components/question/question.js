@@ -5,6 +5,8 @@ import QuestionList from './questionList'
 //const test = QuestionList[0]
 //console.log(test)
 
+// next thing to do - create 2nd question then map through questions... 
+
 const {questionNumber, question, answer1, answer2, answer3, answer4, correctAnswer} = QuestionList[0]
 
 const Question = () => {
