@@ -3,7 +3,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>My Quiz</p>
+        <div className="container">
+        <h2>My Quiz</h2>
+        </div>
       </header>
     </div>
   );
